@@ -20,4 +20,6 @@ public SqlConnection connection = new SqlConnection("Data Source=ВАШ СЕРВ
 ```
 
 ## Где `ВАШ СЕРВЕР` - имя вашего SQL-сервера (например: `localhost`, `.\SQLEXPRESS`)
+
+#### ИЗНАЧАЛЬНО ПОЛЬЗОВАТЕЛЕЙ 2 админ(логин admin пароль admin) и кладовщик(логин 123 пароль 123)
 ````
