@@ -24,7 +24,7 @@ public SqlConnection connection = new SqlConnection("Data Source=ВАШ СЕРВ
 
 #### Тестовый запрос для показа 
 ```sql
-Select \* from Items Where Type = 1
+Select * from Items Where Type = 1
  ```
 
 #### ЗАДАЧУ С РАЗГРАНИЧЕНИЕМ ПРАВ ПОЛЬЗОВАТЕЛЕЙ В БД НУЖНО СДЕЛАТЬ САМОСТОЯТЕЛЬНО В КОЛЛЕДЖЕ НА КОМПЕ ИЛИ У СЕБЯ НА ПК, ИНАЧЕ БУДУТ ОШИБКИ
